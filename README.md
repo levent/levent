@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, I'm Levent 👋
+
+I'm a Group Engineering Manager at [Intercom](https://www.intercom.com).
+
+## Find me 🕵️‍♂️
+
+At [www.leventali.com](https://www.leventali.com) or on Twitter [@lebreeze](https://twitter.com/lebreeze)
 
 <!--
 **levent/levent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
